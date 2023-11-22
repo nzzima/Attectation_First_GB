@@ -1,0 +1,14 @@
+C:\Users\nzzima\Desktop\Attectation_First_GB\task\bin\Debug\net7.0\task.exe
+C:\Users\nzzima\Desktop\Attectation_First_GB\task\bin\Debug\net7.0\task.deps.json
+C:\Users\nzzima\Desktop\Attectation_First_GB\task\bin\Debug\net7.0\task.runtimeconfig.json
+C:\Users\nzzima\Desktop\Attectation_First_GB\task\bin\Debug\net7.0\task.dll
+C:\Users\nzzima\Desktop\Attectation_First_GB\task\bin\Debug\net7.0\task.pdb
+C:\Users\nzzima\Desktop\Attectation_First_GB\task\obj\Debug\net7.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nzzima\Desktop\Attectation_First_GB\task\obj\Debug\net7.0\task.AssemblyInfoInputs.cache
+C:\Users\nzzima\Desktop\Attectation_First_GB\task\obj\Debug\net7.0\task.AssemblyInfo.cs
+C:\Users\nzzima\Desktop\Attectation_First_GB\task\obj\Debug\net7.0\task.csproj.CoreCompileInputs.cache
+C:\Users\nzzima\Desktop\Attectation_First_GB\task\obj\Debug\net7.0\task.dll
+C:\Users\nzzima\Desktop\Attectation_First_GB\task\obj\Debug\net7.0\refint\task.dll
+C:\Users\nzzima\Desktop\Attectation_First_GB\task\obj\Debug\net7.0\task.pdb
+C:\Users\nzzima\Desktop\Attectation_First_GB\task\obj\Debug\net7.0\task.genruntimeconfig.cache
+C:\Users\nzzima\Desktop\Attectation_First_GB\task\obj\Debug\net7.0\ref\task.dll
